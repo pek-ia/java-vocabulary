@@ -1,0 +1,3 @@
+"abstract|The keyword in Java which is a powerful tool for achieving abstraction, promoting code reusability, maintainability, and flexibility in object-oriented programming."
+abstraction| One of the Object-Oriented Programming that focuses on hiding the imlementation details of an object and exposing only its essential features and ehaviors to the user.
+Inheritance| Object-oriented programming concept that allows subclasses or child classes to inherit the method and variable from parent class or super class.
