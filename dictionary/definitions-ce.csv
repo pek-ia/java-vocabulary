@@ -1,0 +1,3 @@
+default|adds new functionality to already existing interfaces allowing them to optionally implement new functionality
+abstract|non-access modifier for classes and methods in other words abstract classes cannot be objects and abstract methods do not have a body
+@Override|an annotation that is optional but is very very useful to ensure you have the correct method signature of methods the class inherited
