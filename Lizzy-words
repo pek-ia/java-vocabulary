@@ -1,0 +1,6 @@
+Overload methods - Method overloading refers to the ability to define multiple methods in the same class with the same name but with different 
+parameter lists. 
+
+Over ride annotation- Is used to indicate that a method in a subclass is intended to override a method with the same name in its superclass. 
+
+Lambda- The implementation of a method. Takes multiple code to sort into one line & thinking of what you want the code to do. 
