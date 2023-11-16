@@ -1,0 +1,3 @@
+Protected| is one of many access modifier's that helps to restrict access to class members. For example data members that are declared as protected can access classes inside it's package. However, it can not be accessed to by any class outside its package.
+strictfp| is an abrivation for "strict floating point" it ensures the same result on all platforms while performing operations in the floating-point variable.
+vollatile| is used to indicate that a variable's value may be modified by multiple threads simultaneously. 
