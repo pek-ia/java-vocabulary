@@ -1,0 +1,163 @@
+Git WOrds!!
+===========
+git fetch
+git pull
+git branch
+git checkout
+git rebase
+(fast forward)
+merge conflict
+divergent (changes)
+
+OO WOrds!
+=========
+polymorphism
+abstraction
+inheritance
+encapsulation
+
+
+overload
+override
+lambda expressions (lambdas)
+
+setters/getters
+
+I/O concepts
+============
+Stream/stream
+
+Java interfaces/Classes
+===============
+Comparator
+ArrayList<T>
+@Override
+
+Programming concepts
+====================
+ source code = human readable/writable code = foo.java
+ byte code "bytecode" = machine readable code = foo.class
+ Compiler - takes human-readable code and translates to bytecode for the JVM
+   javac command
+
+JVM concepts
+============
+ java command
+"program lifecycle"
+ main method - "entry point"
+ garbage collector
+ 
+Java Keywords
+=============
+
+"OO support"
+ class
+
+"Inheritance keywords"
+ implements
+ extends
+ instanceof
+ super
+ abstract
+ interface
+
+"declaration modifiers"
+ static
+ final
+
+"Access control modifiers"
+ protected
+ private
+ public
+
+
+package
+import
+
+"declaration statements"
+ define variables, data types, methods
+ example: int x;
+
+"assignment"
+ example: x = 23;
+ declaration vs initialization
+
+"primitive types" - very definite sizes
+ byte, short, int, long, char, boolean, float, double, void
+
+"operators"
+  "arithmetic operators"
+    +  -  /  *  %
+  "logical operators" - always combine boolean values
+    &&  ||  !
+  "assignment operators"
+    =  
+    +=  -=, etc.
+  "increment/decrement operators"
+    ++  --
+  "comparison operators" - mainly work on primitive types - produce a boolean
+    ==  !=  >  <  >=  <= 
+   
+"indefinite data type"
+ var
+
+"data type declarations"
+ enum
+
+"creating new objects in memory"
+ new
+ constructor
+
+"conditional statements"
+ switch/case/default
+ if-else
+ if
+ if-else-if
+ conditional operator ("ternary" operator) expr ? expr : expr
+
+"Loops or iteration statements"
+ for-each
+ do-while
+ while
+ for
+
+"Jump statements"
+ break
+ continue
+ return
+
+"Exception handling"
+ try/catch/finally
+ assert
+ throws - modifier to a method declaration
+ throw
+
+
+"syntax features"
+ 
+
+"There's a class for that......"
+java.lang.Exception
+java.lang.Object
+
+"unused features"
+ goto
+ const
+ 
+strictfp
+volatile
+transient
+
+"Things we do with data"
+ sort
+ parse
+ split
+ read/write
+   files
+   command-line (console)
+ search
+ add/append/remove
+
+Parts of the computer words
+===========================
+RAM - Random Access Memory
