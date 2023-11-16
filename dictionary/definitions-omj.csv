@@ -1,0 +1,3 @@
+Assert|a special data type that enables for a variable to be a set of predefined constants,
+inherits| acquires all the behaviours of a parent object,
+Import|Used to import a package, class or interface
