@@ -1,0 +1,3 @@
+"static|the variable or method marked as such is available at the class level. In other words, you don't need to create an instance of the class to access it."
+"final| used to indicate that a variable, method, or class cannot be modified or extended"
+stream | a pipeline through which data will flow and the functions to operate on the data
