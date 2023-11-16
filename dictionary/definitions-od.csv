@@ -1,0 +1,3 @@
+git rebase| moves or combines a sequence of commits to a new base commit.
+try/catch block| A try block is the block of code (contains a set of statements) in which exceptions can occur; it's used to enclose the code that might throw an exception. The try block is always followed by a catch block which handles the exception that occurs in the associated try block.
+break| used to terminate loops and switch statements

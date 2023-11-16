@@ -1,0 +1,5 @@
+Constructor|a special method that is called when an object is created, it is used to initialized the state of an object.
+
+Extend|Used to create a subclass. Allows the subclass to inherit the fields and methods from superclass .
+
+For each|iterates over an element or collection.
