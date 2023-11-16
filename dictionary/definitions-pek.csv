@@ -1,1 +1,1 @@
-private|An access modifier applied to a declaration of a method, variable, or type
+private|An access modifier applied to a declaration of a method, variable, or type.  Access is restricted to methods of the surrounding class.
